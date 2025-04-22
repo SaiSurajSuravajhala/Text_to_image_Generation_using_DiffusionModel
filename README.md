@@ -29,6 +29,7 @@ A browser-based visualization tool that simulates the diffusion process:
 - **Software Engineering**: Clean code organization, documentation, and web development
 - **UI/UX Design**: Creation of intuitive interfaces for AI demonstration
 
+##Demo link - "https://drive.google.com/drive/folders/1ghRoMg90_nHRXF3jOiukDE8ZNotlSupX?usp=sharing"
 ## Project Applications
 
 This work has applications in creative industries, design assistance, content generation, and educational purposes for explaining generative AI concepts.
